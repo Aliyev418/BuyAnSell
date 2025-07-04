@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BuyAnSell</string>
+    <string name="login">Daxil ol</string>
+    <string name="username_hint">İstifadəçi adı</string>
+    <string name="password_hint">Şifrə</string>
+    <string name="add_product">Məhsul əlavə et</string>
+    <string name="request_order">Sifariş göndər</string>
+</resources>
